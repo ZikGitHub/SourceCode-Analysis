@@ -1,0 +1,6 @@
+tiktoken
+chromadb==0.4.4
+langchain
+flask
+GitPython
+python-dotenv
